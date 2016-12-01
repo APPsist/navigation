@@ -1,0 +1,7 @@
+"webs{
+  "webserver" : {
+    "port" : 7080,
+    "statics" : "/Users/midi01/Work/vertx_workspace/usermodel-service/src/main/resources",
+    "basePath": "/services/usermodel"
+  }
+} 

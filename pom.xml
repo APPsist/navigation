@@ -3,11 +3,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>de.appsist.service</groupId>
-  <artifactId>usermodel-service</artifactId>
+  <groupId>de.adwisar.service</groupId>
+  <artifactId>navigation</artifactId>
   <packaging>jar</packaging>
-  <version>2.0.18</version>
-  <name>Project - usermodel-service</name>
+  <version>1.0.0-SNAPSHOT</version>
+  <name>adwisar - navigation</name>
   <url>http://maven.apache.org</url>
 
   <parent>
@@ -39,6 +39,7 @@
     <vertx.version>2.1.5</vertx.version>
     <vertx.testtools.version>2.0.3-final</vertx.testtools.version>
     <junit.version>4.11</junit.version>
+    <jackson.version>2.7.3</jackson.version>
 
     <!--Plugin versions-->
     <maven.compiler.plugin.version>3.0</maven.compiler.plugin.version>
@@ -58,6 +59,7 @@
       <url>https://oss.sonatype.org/content/repositories/snapshots</url>
     </repository>
   </repositories>
+	
 
 	<distributionManagement>
 <repository>
@@ -118,14 +120,34 @@
 
     <dependency>
     	<groupId>de.appsist.commons</groupId>
-    	<artifactId>event</artifactId>
-    	<version>1.2.0</version>
-    </dependency>
-    <dependency>
-    	<groupId>de.appsist.commons</groupId>
     	<artifactId>util</artifactId>
     	<version>1.0.0</version>
     </dependency>
+    <dependency>
+    	<groupId>io.vertx</groupId>
+    	<artifactId>mod-mongo-persistor</artifactId>
+    	<version>2.1.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>io.jsonwebtoken</groupId>
+    	<artifactId>jjwt</artifactId>
+    	<version>0.9.1</version>
+    </dependency>
+    <dependency>
+  <groupId>com.fasterxml.jackson.core</groupId>
+  <artifactId>jackson-core</artifactId>
+  <version>${jackson.version}</version>
+</dependency>
+<dependency>
+  <groupId>com.fasterxml.jackson.core</groupId>
+  <artifactId>jackson-databind</artifactId>
+  <version>${jackson.version}</version>
+</dependency>
+<dependency>
+  <groupId>com.fasterxml.jackson.core</groupId>
+  <artifactId>jackson-annotations</artifactId>
+  <version>${jackson.version}</version>
+</dependency>
   </dependencies>
 
   <build>

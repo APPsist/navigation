@@ -1,0 +1,3076 @@
+{  "id" : "1",
+ "courseNodes" :{
+ 	"rootNode": {
+ "nodeId" : "rootNode",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/verdauungstrakt",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : null,
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	 "1_kurs-colon-page-1": {
+ "nodeId" : "1_kurs-colon-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-colon-page-1",
+ 	  "nextNodeId" : "1_kurs-colon-page-2",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_kurs-colon-page-2": {
+ "nodeId" : "1_kurs-colon-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-colon-page-2",
+ 	  "nextNodeId" : "1_kurs-colon-page-3",
+ 	  "previousNodeId" : "1_kurs-colon-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+		 "1_kurs-colon-page-3": {
+ "nodeId" : "1_kurs-colon-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-colon-page-3",
+ 	  "nextNodeId" : "nextNodeId",
+ 	  "previousNodeId" : "1_kurs-colon-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_kurs-duodenum-page-1": {
+ "nodeId" : "1_kurs-duodenum-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-1",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-2",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-2": {
+ "nodeId" : "1_kurs-duodenum-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-2",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-3",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_kurs-duodenum-page-3": {
+ "nodeId" : "1_kurs-duodenum-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-3",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-4",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-4": {
+ "nodeId" : "1_kurs-duodenum-page-4",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-4",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-5",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-5": {
+ "nodeId" : "1_kurs-duodenum-page-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-5",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-6",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-4",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-6": {
+ "nodeId" : "1_kurs-duodenum-page-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-6",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-7",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-5",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-7": {
+ "nodeId" : "1_kurs-duodenum-page-7",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-7",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-8",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-6",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-8": {
+ "nodeId" : "1_kurs-duodenum-page-8",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-8",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-9",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-7",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-9": {
+ "nodeId" : "1_kurs-duodenum-page-9",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-9",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-10",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-8",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-10": {
+ "nodeId" : "1_kurs-duodenum-page-10",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-10",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-11",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-9",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-11": {
+ "nodeId" : "1_kurs-duodenum-page-11",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-11",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-12",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-10",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-12": {
+ "nodeId" : "1_kurs-duodenum-page-12",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-12",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-13",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-11",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-13": {
+ "nodeId" : "1_kurs-duodenum-page-13",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-13",
+ 	  "nextNodeId" : "1_kurs-duodenum-page-14",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-12",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_kurs-duodenum-page-14": {
+ "nodeId" : "1_kurs-duodenum-page-14",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-duodenum-page-14",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_kurs-duodenum-page-13",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_kurs-magenfundus-page-1": {
+ "nodeId" : "1_kurs-magenfundus-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-magenfundus-page-1",
+ 	  "nextNodeId" : "1_kurs-magenfundus-page-1",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_kurs-magenfundus-page-2": {
+ "nodeId" : "1_kurs-magenfundus-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-magenfundus-page-2",
+ 	  "nextNodeId" : "1_kurs-magenfundus-page-3",
+ 	  "previousNodeId" : "1_kurs-magenfundus-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_kurs-magenfundus-page-3": {
+ "nodeId" : "1_kurs-magenfundus-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-magenfundus-page-3",
+ 	  "nextNodeId" : "1_kurs-magenfundus-page-4",
+ 	  "previousNodeId" : "1_kurs-magenfundus-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_kurs-magenfundus-page-4": {
+ "nodeId" : "1_kurs-magenfundus-page-4",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-magenfundus-page-4",
+ 	  "nextNodeId" : "1_kurs-magenfundus-page-5",
+ 	  "previousNodeId" : "1_kurs-magenfundus-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_kurs-magenfundus-page-5": {
+ "nodeId" : "1_kurs-magenfundus-page-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-magenfundus-page-5",
+ 	  "nextNodeId" : "1_kurs-magenfundus-page-6",
+ 	  "previousNodeId" : "1_kurs-magenfundus-page-4",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_kurs-magenfundus-page-6": {
+ "nodeId" : "1_kurs-magenfundus-page-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/kurs-magenfundus-page-6",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_kurs-magenfundus-page-5",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_quizz-draganddrop-duodenum-page-16-17": {
+ "nodeId" : "1_quizz-draganddrop-duodenum-page-16-17",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-draganddrop-duodenum-page-16-17",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_quizz-draganddrop-duodenum-page-5-6": {
+ "nodeId" : "1_quizz-draganddrop-duodenum-page-5-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-draganddrop-duodenum-page-5-6",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_quizz-draganddrop-keytopics-page-19-35": {
+ "nodeId" : "1_quizz-draganddrop-keytopics-page-19-35",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-draganddrop-keytopics-page-19-35",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+
+
+
+ 	"1_quizz-longmenu-keytopics-page-107-108": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-107-108",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-107-108",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_quizz-longmenu-keytopics-page-113-114": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-113-114",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-113-114",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_quizz-longmenu-keytopics-page-123-124": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-123-124",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-123-124",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_quizz-longmenu-keytopics-page-138-140": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-138-140",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-138-140",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_quizz-longmenu-keytopics-page-5-7": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-5-7",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-5-7",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_quizz-longmenu-keytopics-page-75-76": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-75-76",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-75-76",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_quizz-longmenu-keytopics-page-98-99": {
+ "nodeId" : "1_quizz-longmenu-keytopics-page-98-99",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-keytopics-page-107-108",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_quizz-longmenu-leber-page-19": {
+ "nodeId" : "1_quizz-longmenu-leber-page-19",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-leber-page-19",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-auswahlmenu": {
+ "nodeId" : "1_wissen-auswahlmenu",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/_SPA_wissen-auswahlmenu",
+ 	  "nextNodeId" : "1_wissen-auswahlmenu_gr",
+ 	  "previousNodeId" : "https://mymi.edtec.berlin/courses/1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen_auswahlmenu_gr": {
+ "nodeId" : "1_wissen_auswahlmenu_gr",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/_SPA_wissen-auswahlmenu_gr",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-1-v",
+ 	  "previousNodeId" : "1_wissen-auswahlmenu",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	   "1_wissen-gliederung-page-1-v":{
+ 	    	"nodeId" : "1_wissen-gliederung-page-1-v",
+ 	  		"courseStepId" : 0,
+ 	  		"nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-1-v",
+			"nextNodeId" : "1_wissen-gliederung-page-1-t",
+ 	  		"previousNodeId" : "1_wissen-auswahlmenu",
+ 	   		"contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-gliederung-page-1-t":{
+ 	   	 	"nodeId" : "1_wissen-gliederung-page-1-t",
+ 	  		"courseStepId" : 0,
+ 	  		"nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-1-t",
+ 	  		"nextNodeId" : "1_wissen-gliederung-page-2-t",
+ 	  		"previousNodeId" : "1_wissen-gliederung-page-1-v",
+ 	   		"contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-gliederung-page-2-t": {
+ "nodeId" : "1_wissen-gliederung-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-2-t",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-2-v",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-gliederung-page-2-v": {
+ "nodeId" : "1_wissen-gliederung-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-2-v",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-2",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-gliederung-page-2": {
+ "nodeId" : "1_wissen-gliederung-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-2",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-3-t",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-gliederung-page-3-t": {
+ "nodeId" : "1_wissen-gliederung-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-3-t",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-3-v",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-gliederung-page-3-v": {
+ "nodeId" : "1_wissen-gliederung-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-3-v",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-4-v",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-gliederung-page-4-v": {
+ "nodeId" : "1_wissen-gliederung-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-4-v",
+ 	  "nextNodeId" : "1_wissen-gliederung-page-5-v",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-gliederung-page-5-v": {
+ "nodeId" : "1_wissen-gliederung-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-5-v",
+ 	  "nextNodeId" : "1_wissen-auswahlmenu",
+ 	  "previousNodeId" : "1_wissen-gliederung-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-bauprinzipien-kapitelubersicht": {
+ "nodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/_SPA_wissen-bauprinzipien-kapitelubersicht",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "1_wissen-auswahlmenu",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-3-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-3-t": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-3-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4lang-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4lang-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4lang-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-4lang-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-5-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-4lang-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-5b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5c-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5c-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-5c-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5d-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5d-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5d-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-5d-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5c-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-6-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-5d-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-6b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6c-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6c-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-6c-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-7-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-7-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-7-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-6c-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-8-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-8b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-9-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-9-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-9-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-9-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-10-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-8b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+		"1_wissen-bauprinzipien-allgemeines-bauprinzip-page-10-v": {
+ "nodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-10-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-allgemeines-bauprinzip-page-10-v",
+ 	  "nextNodeId" : "1_quizz-draganddrop-rumpfdarm-page-34-35",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-9-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_quizz-draganddrop-rumpfdarm-page-34-35": {
+ "nodeId" : "1_quizz-draganddrop-rumpfdarm-page-34-35",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-draganddrop-rumpfdarm-page-34-35",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-allgemeines-bauprinzip-page-10-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-bauprinzipien-tunica-mucosa-page-1-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2a-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-2a-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-2a-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-2b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-2b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-3-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-3-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-2b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-vkurz",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-3-vkurz": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-vkurz",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-3-vkurz",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-4-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-4-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-3-vkurz",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-vkurz",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-4-vkurz": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-vkurz",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-4-vkurz",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-5-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-5-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-5-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-5-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-4-vkurz",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-5-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-5-v",
+ 	  "nextNodeId" : "1_wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v": {
+ "nodeId" : "1_wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-6-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-mucosa-page-6-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-mucosa-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-mucosa-page-6-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+	 	"1_wissen-bauprinzipien-tela-submucosa-page-1a-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-bauprinzipien-tela-submucosa-page-1b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-2-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-2-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-2-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-3-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-3-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-3-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-5-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-5-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-5-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-5-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-5-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-5-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-6-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-6-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-6-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-6-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-7-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-7-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-7-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-7-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-6-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-8-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-8-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8a-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-7-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-8a-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-8a-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tela-submucosa-page-8b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tela-submucosa-page-8b-v",
+ 	  "nextNodeId" : "1_quizz-draganddrop-rumpfdarm-page-87-92-2",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+		"1_quizz-draganddrop-rumpfdarm-page-87-92-1": {
+ "nodeId" : "1_quizz-draganddrop-rumpfdarm-page-87-92-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-draganddrop-rumpfdarm-page-87-92-1",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_quizz-draganddrop-rumpfdarm-page-87-92-2": {
+ "nodeId" : "1_quizz-draganddrop-rumpfdarm-page-87-92-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-draganddrop-rumpfdarm-page-87-92-2",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tela-submucosa-page-8b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-1-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-1kurz-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-1kurz-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-1kurz-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-4-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-4-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-4-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-4-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-5-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-4-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-tunica-muscularis-page-5-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-muscularis-page-5-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-muscularis-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-t": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-v": {
+ "nodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-tunica-adventitia-und-serosa-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+	 	"1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-3-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-3-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-3-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-plicae-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2a-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2a-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2a-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2kurz-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2kurz-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2kurz-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2kurz-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-2kurz-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3kurz-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3kurz-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3kurz-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3kurz-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-5-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-3kurz-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-5-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-5-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-6-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-6-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-6-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-v",
+ 	  "nextNodeId" : "",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-zotten-und-krypten-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2a-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2a-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2a-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-oberflachenvergrosserung-mikrovilli-page-2a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-bauprinzipien-zelltypen-ubersicht-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-ubersicht-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-ubersicht-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-ubersicht-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+	 	"1_wissen-bauprinzipien-zelltypen-ubersicht-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-ubersicht-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-ubersicht-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-ubersicht-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-ubersicht-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-1a-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-1b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v-2",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v-2": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v-2",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1d-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-1d-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1d-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-1d-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1c-v-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-enterozyten-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-enterozyten-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-1d-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1av",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-enterozyten-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	    	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-1av": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1av",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-1av",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-1b-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1av",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-2-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-4-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-becherzellen-page-4-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-becherzellen-page-4-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+
+ 	"1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-becherzellen-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	    	"1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-2-v",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-2-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-paneth-zellen-page-2-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-paneth-zellen-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	    	"1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-2-t",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-2-t": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-2-t",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-3-v",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-3-v": {
+ "nodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-3-v",
+ 	  "nextNodeId" : "1_wissen-bauprinzipien-kapitelubersicht",
+ 	  "previousNodeId" : "1_wissen-bauprinzipien-zelltypen-weitere-zelltypen-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+
+ 	"1_wissen-gliederung-page-4-5": {
+ "nodeId" : "1_wissen-gliederung-page-4-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-gliederung-page-4-5",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+
+
+
+ 	"1_wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v": {
+ "nodeId" : "1_wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-grundgewebe-muskulatur-glatte-muskulatur-page-1-v",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dickdarm-funktionen-page-1-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-funktionen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-funktionen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-menu",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dickdarm-makroskopie-page-1-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-makroskopie-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-funktionen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-makroskopie-page-1-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-makroskopie-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1kurz-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-makroskopie-page-1kurz-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1kurz-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-makroskopie-page-1kurz-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-organe-dickdarm-bauprinzipien-page-1-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-makroskopie-page-1kurz-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+		"1_wissen-organe-dickdarm-bauprinzipien-page-2-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dickdarm-bauprinzipien-page-3-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dickdarm-bauprinzipien-page-4-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-5-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dickdarm-bauprinzipien-page-5-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-5-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dickdarm-bauprinzipien-page-6-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dickdarm-bauprinzipien-page-7-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-bauprinzipien-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dickdarm-colon-page-1-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-bauprinzipien-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-dickdarm-colon-page-1a-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-1b-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-2-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-2-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-3-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-4-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-5-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-5-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-5-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-5-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	    	"1_wissen-organe-dickdarm-colon-page-5-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-5-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-6-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-dickdarm-colon-page-6-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-6-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-6-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-6-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-6-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-7-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-8-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-8-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-8-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-8-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-8-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-8-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-8-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-8-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-9-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-8-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-9-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-9-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-9-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-9-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-8-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-9-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-9-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-9-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-10-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-9-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dickdarm-colon-page-10-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-10-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-10-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-11-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-9-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-11-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-11-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-11-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-colon-page-11-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-10-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-colon-page-11-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-colon-page-11-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-colon-page-11-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-differentialdiagnose-darm-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-11-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dickdarm-differentialdiagnose-darm-page-1-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-differentialdiagnose-darm-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-differentialdiagnose-darm-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-colon-page-11-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-differentialdiagnose-darm-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3a-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3a-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3a-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3b-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3b-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-4-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-3b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5b-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5b-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-6-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-5b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-7-v": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-8-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-8-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-8-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-8-t",
+ 	  "nextNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-9-t",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-9-t": {
+ "nodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-9-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-9-t",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-8-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-1-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-dickdarm-zakum-mit-appendix-vermiformis-page-9-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-2-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-3-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-4-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-5-v",
+ 	  "previousNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-5-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-5-v",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-6-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-7-v": {
+ "nodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-lymphatische-organe-appendix-vermiformis-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-menu",
+ 	  "previousNodeId" : "1_wissen-organe-lymphatische-organe-appendix-vermiformis-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+
+
+ 	"1_wissen-organe-dunndarm-funktionen-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-funktionen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-funktionen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-menu",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dunndarm-makroskopie-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-makroskopie-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-funktionen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-makroskopie-page-1a-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-makroskopie-page-1a-v",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dunndarm-makroskopie-page-1b-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-makroskopie-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-makroskopie-page-2-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-makroskopie-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-makroskopie-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dunndarm-bauprinzipien-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-bauprinzipien-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-makroskopie-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	    	"1_wissen-organe-dunndarm-bauprinzipien-page-1-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-bauprinzipien-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-bauprinzipien-page-2-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-bauprinzipien-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-bauprinzipien-page-3-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-bauprinzipien-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-dunndarm-duodenum-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-bauprinzipien-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-dunndarm-duodenum-page-1-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-2-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-3",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-3": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-3",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-4-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-5-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-5-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-5-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-6-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-6-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-6-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6a-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-6a-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-6a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-6a-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6b-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-6b-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-6b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-6b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6c-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+"1_wissen-organe-dunndarm-duodenum-page-6c-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-6c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-6c-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-duodenum-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+"1_wissen-organe-dunndarm-duodenum-page-7-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-duodenum-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-duodenum-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-jejunum-und-ileum-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-6c-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-dunndarm-jejunum-und-ileum-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-jejunum-und-ileum-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-jejunum-und-ileum-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-jejunum-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-duodenum-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-dunndarm-jejunum-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-jejunum-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-jejunum-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-jejunum-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-jejunum-und-ileum-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-jejunum-page-1a-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-jejunum-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-jejunum-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-jejunum-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-jejunum-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-jejunum-page-1b-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-jejunum-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-jejunum-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-ileum-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-jejunum-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-dunndarm-ileum-page-1-t": {
+ "nodeId" : "1_wissen-organe-dunndarm-ileum-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-ileum-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-ileum-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-jejunum-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-ileum-page-1a-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-ileum-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-ileum-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-ileum-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-ileum-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-dunndarm-ileum-page-1b-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-ileum-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-ileum-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-dunndarm-differentialdiagnose-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-ileum-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-dunndarm-differentialdiagnose-page-1-v": {
+ "nodeId" : "1_wissen-organe-dunndarm-differentialdiagnose-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-dunndarm-differentialdiagnose-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-menu",
+ 	  "previousNodeId" : "1_wissen-organe-dunndarm-ileum-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+
+
+
+ 	"1_wissen-organe-gallenblase-einfuhrung-page-1": {
+ "nodeId" : "1_wissen-organe-gallenblase-einfuhrung-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-einfuhrung-page-1",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-gallenblase-wandbau-page-1": {
+ "nodeId" : "1_wissen-organe-gallenblase-wandbau-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-wandbau-page-1",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-gallenblase-wandbau-page-2": {
+ "nodeId" : "1_wissen-organe-gallenblase-wandbau-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-wandbau-page-2",
+ 	  "nextNodeId" : "1_wissen-organe-gallenblase-wandbau-page-3",
+ 	  "previousNodeId" : "1_wissen-organe-gallenblase-wandbau-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   	 	"1_wissen-organe-gallenblase-wandbau-page-3": {
+ "nodeId" : "1_wissen-organe-gallenblase-wandbau-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-wandbau-page-3",
+ 	  "nextNodeId" : "1_wissen-organe-gallenblase-wandbau-page-4",
+ 	  "previousNodeId" : "1_wissen-organe-gallenblase-wandbau-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-gallenblase-wandbau-page-4": {
+ "nodeId" : "1_wissen-organe-gallenblase-wandbau-page-4",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-wandbau-page-4",
+ 	  "nextNodeId" : "1_wissen-organe-gallenblase-wandbau-page-5",
+ 	  "previousNodeId" : "1_wissen-organe-gallenblase-wandbau-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-gallenblase-wandbau-page-5": {
+ "nodeId" : "1_wissen-organe-gallenblase-wandbau-page-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-wandbau-page-5",
+ 	  "nextNodeId" : "1_wissen-organe-gallenblase-wandbau-page-6",
+ 	  "previousNodeId" : "1_wissen-organe-gallenblase-wandbau-page-4",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-gallenblase-wandbau-page-6": {
+ "nodeId" : "1_wissen-organe-gallenblase-wandbau-page-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-gallenblase-wandbau-page-6",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_wissen-organe-gallenblase-wandbau-page-5",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-leber-einfuhrung-page-1": {
+ "nodeId" : "1_wissen-organe-leber-einfuhrung-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-einfuhrung-page-1",
+ 	  "nextNodeId" : "1_wissen-organe-leber-einfuhrung-page-2",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-einfuhrung-page-2": {
+ "nodeId" : "1_wissen-organe-leber-einfuhrung-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-einfuhrung-page-2",
+ 	  "nextNodeId" : "1_wissen-organe-leber-einfuhrung-page-3",
+ 	  "previousNodeId" : "1_wissen-organe-leber-einfuhrung-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-einfuhrung-page-3": {
+ "nodeId" : "1_wissen-organe-leber-einfuhrung-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-einfuhrung-page-3",
+ 	  "nextNodeId" : "1_wissen-organe-leber-einfuhrung-page-4",
+ 	  "previousNodeId" : "1_wissen-organe-leber-einfuhrung-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-einfuhrung-page-4": {
+ "nodeId" : "1_wissen-organe-leber-einfuhrung-page-4",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-einfuhrung-page-4",
+ 	  "nextNodeId" : "1_wissen-organe-leber-einfuhrung-page-5",
+ 	  "previousNodeId" : "1_wissen-organe-leber-einfuhrung-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-einfuhrung-page-5": {
+ "nodeId" : "1_wissen-organe-leber-einfuhrung-page-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-einfuhrung-page-5",
+ 	  "nextNodeId" : "1_wissen-organe-leber-einfuhrung-page-6",
+ 	  "previousNodeId" : "1_wissen-organe-leber-einfuhrung-page-4",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-einfuhrung-page-6": {
+ "nodeId" : "1_wissen-organe-leber-einfuhrung-page-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-einfuhrung-page-6",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_wissen-organe-leber-einfuhrung-page-5",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-leber-leberkapsel-und-stroma-page-1": {
+ "nodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberkapsel-und-stroma-page-1",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-2",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberkapsel-und-stroma-page-2": {
+ "nodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberkapsel-und-stroma-page-2",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-3",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberkapsel-und-stroma-page-3": {
+ "nodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberkapsel-und-stroma-page-3",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberkapsel-und-stroma-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-leber-leberparenchym-page-1": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchym-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchym-page-1",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchym-page-2",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchym-page-2": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchym-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchym-page-2",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchym-page-3",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchym-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchym-page-3": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchym-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchym-page-3",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchym-page-4",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchym-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchym-page-4": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchym-page-4",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchym-page-4",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchym-page-5",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchym-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchym-page-5": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchym-page-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchym-page-5",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchym-page-6",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchym-page-4",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchym-page-6": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchym-page-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchym-page-6",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchym-page-5",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-leber-leberparenchymgliederung-page-1": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchymgliederung-page-1",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-2",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchymgliederung-page-2": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-2",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchymgliederung-page-2",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-3",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-1",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+		 	"1_wissen-organe-leber-leberparenchymgliederung-page-3": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-3",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchymgliederung-page-3",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-4",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-2",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchymgliederung-page-4": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-4",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchymgliederung-page-4",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-5",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-3",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchymgliederung-page-5": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-5",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchymgliederung-page-5",
+ 	  "nextNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-6",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-4",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-leber-leberparenchymgliederung-page-6": {
+ "nodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-6",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-leberparenchymgliederung-page-6",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "1_wissen-organe-leber-leberparenchymgliederung-page-5",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-leber-lymphwege-page-1": {
+ "nodeId" : "1_wissen-organe-leber-lymphwege-page-1",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-leber-lymphwege-page-1",
+ 	  "nextNodeId" : "_nextId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-organe-magen-kapitelauswahl": {
+ "nodeId" : "1_wissen-organe-magen-kapitelauswahl",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-kapitelauswahl",
+ 	  "nextNodeId" : "1_wissen-organe-magen-funktionen-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-menu",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-magen-funktionen-page-1-t": {
+ "nodeId" : "1_wissen-organe-magen-funktionen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-funktionen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-makroskopie-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-kapitelauswahl",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-magen-makroskopie-page-1-t": {
+ "nodeId" : "1_wissen-organe-magen-makroskopie-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-makroskopie-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-makroskopie-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-funktionen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-makroskopie-page-1-v": {
+ "nodeId" : "1_wissen-organe-magen-makroskopie-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-makroskopie-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-makroskopie-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-magen-bauprinzipien-page-1-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-makroskopie-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-2-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-3-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-4-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-5-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-5-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-5-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-6-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-7-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-8-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-8-v": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-8-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-8-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-9-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-9-t": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-9-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-9-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-10a-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-8-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-organe-magen-bauprinzipien-page-10a-t": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-10a-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-10a-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-10b-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-9-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-10b-t": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-10b-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-10b-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-11-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-10a-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-11-t": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-11-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-11-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-bauprinzipien-page-12-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-10b-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-bauprinzipien-page-12-t": {
+ "nodeId" : "1_wissen-organe-magen-bauprinzipien-page-12-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-bauprinzipien-page-12-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-11-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1-t": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-bauprinzipien-page-12-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1a-v": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1b-v": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1c-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1c-v": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-1c-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-2-v": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-1c-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-t": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-v": {
+ "nodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-oberflachliches-schleimhautrelief-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1a-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1b-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-5-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-5-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-5-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-6-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-6-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-6-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-6-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-7-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-8-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-6-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-8-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-8-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-8-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-8-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-10-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-10-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-10-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-10-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-9-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-1-v": {
+ "nodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-mechanismen-der-hcl-sekretion-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-10-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-2-v": {
+ "nodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-mechanismen-der-hcl-sekretion-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-3-v": {
+ "nodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-mechanismen-der-hcl-sekretion-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-4-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-4-t": {
+ "nodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-4-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-mechanismen-der-hcl-sekretion-page-4-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-mechanismen-der-hcl-sekretion-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-v": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-12-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-12-t": {
+ "nodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-12-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-12-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-11-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_wissen-organe-magen-regionale-baumerkmale-page-1-t": {
+ "nodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-regionale-baumerkmale-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-hauptdrusen-des-corpus-und-fundus-page-12-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-regionale-baumerkmale-page-1-v": {
+ "nodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-regionale-baumerkmale-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-regionale-baumerkmale-page-2-v": {
+ "nodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-regionale-baumerkmale-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-regionale-baumerkmale-page-3-v": {
+ "nodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-regionale-baumerkmale-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-magen-regionale-baumerkmale-page-4-v": {
+ "nodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-magen-regionale-baumerkmale-page-4-v",
+ 	  "nextNodeId" : "1_quizz-longmenu-magen-page-55-56",
+ 	  "previousNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+ 	"1_quizz-longmenu-magen-page-55-56": {
+ "nodeId" : "1_quizz-longmenu-magen-page-55-56",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-magen-page-55-56",
+ 	  "nextNodeId" : "1_quizz-longmenu-magen-page-57-58",
+ 	  "previousNodeId" : "1_wissen-organe-magen-regionale-baumerkmale-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_quizz-longmenu-magen-page-57-58": {
+ "nodeId" : "1_quizz-longmenu-magen-page-57-58",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/quizz-longmenu-magen-page-57-58",
+ 	  "nextNodeId" : "1_wissen-organe-menu",
+ 	  "previousNodeId" : "1_quizz-longmenu-magen-page-55-56",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-organe-menu": {
+ "nodeId" : "1_wissen-organe-menu",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/#!/verdauungstrakt/wissen/wissen-organe-menu",
+ 	  "nextNodeId" : "_nextNodeId_",
+ 	  "previousNodeId" : "_previousID_",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-organe-osophagus-kapitelauswahl": {
+ "nodeId" : "1_wissen-organe-osophagus-kapitelauswahl",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-kapitelauswahl",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-funktionen-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-menu",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-osophagus-funktionen-page-1-t": {
+ "nodeId" : "1_wissen-organe-osophagus-funktionen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-funktionen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-makroskopie-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-kapitelauswahl",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+
+
+ 	"1_wissen-organe-osophagus-makroskopie-page-1-v": {
+ "nodeId" : "1_wissen-organe-osophagus-makroskopie-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-makroskopie-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-funktionen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+   },
+
+
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-1a-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-1a-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1b-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-makroskopie-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+  	"1_wissen-organe-osophagus-bauprinzipien-page-1b-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1b-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-1b-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-1a-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-1a-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1b-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-1b-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-1b-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1c-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-1c-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-1c-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1d-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-1d-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1d-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-1d-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-2a-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1c-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-2a-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-2a-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-2a-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-2b-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-1d-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-2b-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-2b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-2b-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-2a-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-3-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-2b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-3-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-3-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-3b-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3b-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-3b-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3c-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-3c-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3c-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-3c-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3b-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-4-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-4-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-5-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-3-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-5-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-5-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-6-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-6-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-6-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-6-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-6-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-7-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-6-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-7-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-7-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-7-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-7-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-6-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-7-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-7-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-7-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-8-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-7-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-8-t": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-8-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-8-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-8-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-7-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-bauprinzipien-page-8-v": {
+ "nodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-8-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-bauprinzipien-page-8-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-8-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-osophagus-besonderheiten-page-1-t": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-bauprinzipien-page-8-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-organe-osophagus-besonderheiten-page-2-v": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-2-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-3-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-besonderheiten-page-3-t": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-4-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-besonderheiten-page-4-v": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-4-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-4-v",
+ 	  "nextNodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-1-v": {
+ "nodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-1-v",
+ 	  "nextNodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-2-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-4-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+	 	"1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-2-v": {
+ "nodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-2-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-2-v",
+ 	  "nextNodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-3-t",
+ 	  "previousNodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-3-t": {
+ "nodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-5-t",
+ 	  "previousNodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-2-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-osophagus-besonderheiten-page-5-t": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-5-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-5-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-5-v",
+ 	  "previousNodeId" : "1_wissen-grundgewebe-epithelien-mehrschichtig-unverhorntes-plattenepithel-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-besonderheiten-page-5-v": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-5-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-5-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-6-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-5-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	   "1_wissen-organe-osophagus-besonderheiten-page-6-t": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-6-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-6-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-6-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-5-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-besonderheiten-page-6-v": {
+ "nodeId" : "1_wissen-organe-osophagus-besonderheiten-page-6-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-besonderheiten-page-6-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+
+ 	"1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-t": {
+ "nodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-v",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-besonderheiten-page-6-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-v": {
+ "nodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-v",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-v",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-2-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-2-t": {
+ "nodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-2-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-2-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-3-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-1-v",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-3-t": {
+ "nodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-3-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-3-t",
+ 	  "nextNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-4-t",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-2-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   },
+ 	"1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-4-t": {
+ "nodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-4-t",
+ 	  "courseStepId" : 0,
+ 	  "nodeContentId" : "https://mymi.edtec.berlin/courses/1/pages/wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-4-t",
+ 	  "nextNodeId" : "1_wissen-organe-menu",
+ 	  "previousNodeId" : "1_wissen-organe-osophagus-differentialdiagnose-sternformiges-lumen-page-3-t",
+ 	   "contextData" : { "fieldNames" : [ "fieldNames", "array", "object" ], "array" : false, "object" : true }
+ 	   }
+ }
+}
